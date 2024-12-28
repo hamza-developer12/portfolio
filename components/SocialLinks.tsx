@@ -9,7 +9,6 @@ import {
 } from "./ui/tooltip";
 
 const socialData = [
-  { title: "Youtube", icon: <Youtube />, href: "https://www.youtube.com/" },
   {
     title: "Github",
     icon: <Github />,
@@ -18,12 +17,12 @@ const socialData = [
   {
     title: "LinkedIn",
     icon: <Linkedin />,
-    href: "https://github.com/hamza-developer12",
+    href: "www.linkedin.com/in/hamza-azam-24097b204",
   },
   {
     title: "Facebook",
     icon: <Facebook />,
-    href: "https://github.com/hamza-developer12",
+    href: "https://www.facebook.com/aurangzeb.aurangzeb.3139",
   },
 ];
 
