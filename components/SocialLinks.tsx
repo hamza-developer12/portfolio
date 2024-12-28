@@ -17,7 +17,7 @@ const socialData = [
   {
     title: "LinkedIn",
     icon: <Linkedin />,
-    href: "www.linkedin.com/in/hamza-azam-24097b204",
+    href: "https://www.linkedin.com/in/hamza-azam-24097b204",
   },
   {
     title: "Facebook",
